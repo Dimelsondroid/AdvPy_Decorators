@@ -1,0 +1,9 @@
+2022-05-09 22:36:58 function search_hero called, 
+with arguments: (<__main__.Superhero object at 0x000002572DC4C430>, 'Hulk'), {} 
+and result: 332
+2022-05-09 22:37:00 function search_hero called, 
+with arguments: (<__main__.Superhero object at 0x000002572DC4C430>, 'Captain America'), {} 
+and result: 149
+2022-05-09 22:37:02 function search_hero called, 
+with arguments: (<__main__.Superhero object at 0x000002572DC4C430>, 'Thanos'), {} 
+and result: 655

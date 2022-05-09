@@ -1,0 +1,9 @@
+2022-05-09 22:36:59 function get_stats called, 
+with arguments: (<__main__.Superhero object at 0x000002572DC4C430>, '332'), {} 
+and result: 88
+2022-05-09 22:37:01 function get_stats called, 
+with arguments: (<__main__.Superhero object at 0x000002572DC4C430>, '149'), {} 
+and result: 69
+2022-05-09 22:37:03 function get_stats called, 
+with arguments: (<__main__.Superhero object at 0x000002572DC4C430>, '655'), {} 
+and result: 100
